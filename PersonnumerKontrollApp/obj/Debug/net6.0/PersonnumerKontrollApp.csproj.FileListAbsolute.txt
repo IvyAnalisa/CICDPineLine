@@ -1,0 +1,15 @@
+C:\Users\ivyan\source\repos\CICDPineLine\PersonnumerKontrollApp\bin\Debug\net6.0\PersonnumerKontrollApp.exe
+C:\Users\ivyan\source\repos\CICDPineLine\PersonnumerKontrollApp\bin\Debug\net6.0\PersonnumerKontrollApp.deps.json
+C:\Users\ivyan\source\repos\CICDPineLine\PersonnumerKontrollApp\bin\Debug\net6.0\PersonnumerKontrollApp.runtimeconfig.json
+C:\Users\ivyan\source\repos\CICDPineLine\PersonnumerKontrollApp\bin\Debug\net6.0\PersonnumerKontrollApp.dll
+C:\Users\ivyan\source\repos\CICDPineLine\PersonnumerKontrollApp\bin\Debug\net6.0\PersonnumerKontrollApp.pdb
+C:\Users\ivyan\source\repos\CICDPineLine\PersonnumerKontrollApp\obj\Debug\net6.0\PersonnumerKontrollApp.csproj.AssemblyReference.cache
+C:\Users\ivyan\source\repos\CICDPineLine\PersonnumerKontrollApp\obj\Debug\net6.0\PersonnumerKontrollApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivyan\source\repos\CICDPineLine\PersonnumerKontrollApp\obj\Debug\net6.0\PersonnumerKontrollApp.AssemblyInfoInputs.cache
+C:\Users\ivyan\source\repos\CICDPineLine\PersonnumerKontrollApp\obj\Debug\net6.0\PersonnumerKontrollApp.AssemblyInfo.cs
+C:\Users\ivyan\source\repos\CICDPineLine\PersonnumerKontrollApp\obj\Debug\net6.0\PersonnumerKontrollApp.csproj.CoreCompileInputs.cache
+C:\Users\ivyan\source\repos\CICDPineLine\PersonnumerKontrollApp\obj\Debug\net6.0\PersonnumerKontrollApp.dll
+C:\Users\ivyan\source\repos\CICDPineLine\PersonnumerKontrollApp\obj\Debug\net6.0\refint\PersonnumerKontrollApp.dll
+C:\Users\ivyan\source\repos\CICDPineLine\PersonnumerKontrollApp\obj\Debug\net6.0\PersonnumerKontrollApp.pdb
+C:\Users\ivyan\source\repos\CICDPineLine\PersonnumerKontrollApp\obj\Debug\net6.0\PersonnumerKontrollApp.genruntimeconfig.cache
+C:\Users\ivyan\source\repos\CICDPineLine\PersonnumerKontrollApp\obj\Debug\net6.0\ref\PersonnumerKontrollApp.dll

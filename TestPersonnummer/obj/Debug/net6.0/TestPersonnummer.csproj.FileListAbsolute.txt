@@ -1,0 +1,6 @@
+C:\Users\ivyan\source\repos\CICDPineLine\TestPersonnummer\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\ivyan\source\repos\CICDPineLine\TestPersonnummer\obj\Debug\net6.0\TestPersonnummer.csproj.AssemblyReference.cache
+C:\Users\ivyan\source\repos\CICDPineLine\TestPersonnummer\obj\Debug\net6.0\TestPersonnummer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivyan\source\repos\CICDPineLine\TestPersonnummer\obj\Debug\net6.0\TestPersonnummer.AssemblyInfoInputs.cache
+C:\Users\ivyan\source\repos\CICDPineLine\TestPersonnummer\obj\Debug\net6.0\TestPersonnummer.AssemblyInfo.cs
+C:\Users\ivyan\source\repos\CICDPineLine\TestPersonnummer\obj\Debug\net6.0\TestPersonnummer.csproj.CoreCompileInputs.cache
