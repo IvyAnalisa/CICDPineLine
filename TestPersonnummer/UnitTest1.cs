@@ -1,5 +1,6 @@
 
 
+using Microsoft.VisualStudio.TestPlatform.TestHost;
 using NUnit.Framework;
 
 [TestFixture]
@@ -50,8 +51,38 @@ public class TestPersonnummer
         // Assert
         Assert.AreEqual(expectedResult, actualResult);
     }
+    [TestCase("920101-12")]
+    [TestCase("8502145678")]
+    [TestCase("abcde")]
+    public void Main_InvalidPersonnummer_ShouldPrintCorrectMessage(string personnummer)
+    {
+        // Arrange
+        var consoleOutput = new System.IO.StringWriter();
+        Console.SetOut(consoleOutput);
+        Console.SetIn(new System.IO.StringReader(personnummer));
 
-  
+        // Act
+        PersonnummerValidator.Main();
 
-   
+        // Assert
+        Assert.AreEqual($"Personnumret är ogiltigt.{Environment.NewLine}", consoleOutput.ToString());
+    }
+    [TestCase("920101-1234")]
+    [TestCase("850214-5678")]
+    [TestCase("990630-9876")]
+    public void Main_ValidPersonnummer_ShouldPrintCorrectMessage(string personnummer)
+    {
+        // Arrange
+        var consoleOutput = new System.IO.StringWriter();
+        Console.SetOut(consoleOutput);
+        Console.SetIn(new System.IO.StringReader(personnummer));
+
+        // Act
+        PersonnummerValidator.Main();
+
+        // Assert
+        Assert.AreEqual($"Personnumret är korrekt.{Environment.NewLine}", consoleOutput.ToString());
+    }
+
+
 }
